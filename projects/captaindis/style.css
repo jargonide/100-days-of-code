@@ -1,0 +1,58 @@
+@font-face {font-family: Heroes-Legend; src: url('Heroes-Legend.ttf')}
+@font-face {font-family: Fishfingers; src: url('Fishfingers.ttf')}
+
+
+.container {
+    background-color: #e1a966;
+    padding: 10px;
+    margin: 5px;
+    color: #3a4453;
+    border: 5px #3a4453 dashed;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+  }
+  #content {
+      width: 70%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  #header {
+      text-align: center;
+      font-family: Heroes-Legend;
+  }
+  #text {
+    margin-top: 1em;
+    padding-left: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    margin-top: 1em;
+    box-shadow: 5px 5px 10px;
+  }
+  img:hover {
+ width: 100%;     
+  }
+  
+  body {
+    background-color: #dfd7d1;
+  }
+  
+  #text h3 {
+    text-align: center;
+    font-style: italic;
+  }
+
+  a {
+      text-decoration: none;
+      color: 3a4453;
+      font-weight: bold;
+  }
+
+  a:hover {
+      color: #dfd7d1;
+  }
