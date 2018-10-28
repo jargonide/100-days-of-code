@@ -22,12 +22,14 @@ ___
 **C++**
 - Console RPG
 - Spell checker
+- Madlibs Generator
 
 **HTML/CSS/JS**
 - Tribute page for Captain Disillusion
 - Personal website
 - NYSO website
 - College admission app helper prototype
+- Madlibs Generator
 
 **Swift**
 - Playground projects
