@@ -21,6 +21,7 @@ ___
 
 **C++**
 - Console RPG
+- Spell checker
 
 **HTML/CSS/JS**
 - Tribute page for Captain Disillusion
