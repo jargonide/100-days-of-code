@@ -34,3 +34,7 @@ ___
 **Swift**
 - Playground projects
 - College admission app helper 
+
+**Combination**
+- X Days of Y (100 Days of Code, 50 Days of Writing, etc.)
+- College admissions helper
