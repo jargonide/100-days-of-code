@@ -10,11 +10,11 @@
 ___ 
 ### Day 1: October 28, 2018 
 
-> **Today's Progress**: Finished the Brute Force cracker. 
+> **Today's Progress**: Finalized the brute force cracker, though there is one bug where the program won't return even if it cracked the password. Created a tribute page for Captain Disillusion.
 
-> **Thoughts:** 
+> **Thoughts:** I spent a good amount of time trying to fix the Brute Force attacker bug, and I will solve that in the future. It was quite a heavy problem, and with the limited C++ syntax I have, it would be better to first learn more C++. Inspired by the freecodecamp projects, I created a tribute page for Captain Disillusion, one of my favorite YouTubers.
 
-> **Link to work:** (add later)
+> **Link to work:** Captain Disillusion tribute page: https://jargonide.github.io/captaindis/
 ___ 
 
 #### Future Projects to Work On
