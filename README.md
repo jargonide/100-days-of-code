@@ -16,6 +16,14 @@ ___
 
 > **Link to work:** Captain Disillusion tribute page: https://jargonide.github.io/captaindis/ Brute force cracker: https://github.com/jargonide/100-days-of-code/blob/master/projects/bruteForce/bruteforce.cpp (buggy)
 ___ 
+### Day 2: October 29, 2018 
+
+> **Today's Progress**: Created the first prototype of my MadLibs Generator. 
+
+> **Thoughts:** It's been quite a long time since I coded in Javascript, so I decided to refresh my memory by creating a MadLibs generator. Refamiliarizing myself with the DOM and event listeners was a struggle. My code is also a bit messy. The project is obviously unfinished, and I aim to finish it tomorrow. Had quite a bit of fun creating the MadLibs sentences though.
+
+> **Link to work:** unfinished
+___ 
 
 #### Future Projects to Work On
 
@@ -29,7 +37,6 @@ ___
 - Personal website
 - NYSO website
 - College admission app helper prototype
-- Madlibs Generator
 
 **Swift**
 - Playground projects
