@@ -24,13 +24,20 @@ ___
 
 > **Link to work:** unfinished
 ___ 
+### Day 3: October 30, 2018 
+
+> **Today's Progress**: Finished my MadLibs generator, and created a website for NYSO. 
+
+> **Thoughts:** I rushed quite a bit for the MadLibs generator, mostly because I wasn't really feeling it. The website I made for NYSO wasn't really that great too - it was merely a prototype, albeit inspired from some websites I found online. I really need to spend more time with C++ however, and tomorrow I'll try to fix my brute force cracker and try to implement it in Javascript.
+
+> **Link to work:** https://github.com/jargonide/100-days-of-code/tree/master/projects/madlibsgen
+___ 
 
 #### Future Projects to Work On
 
 **C++**
 - Console RPG
 - Spell checker
-- Madlibs Generator
 
 **HTML/CSS/JS**
 - Tribute page for Captain Disillusion
