@@ -33,6 +33,15 @@ ___
 > **Link to work:** https://github.com/jargonide/100-days-of-code/tree/master/projects/madlibsgen
 ___ 
 
+### Day 4: October 31, 2018 
+
+> **Today's Progress**: Created an asteroids game with Gamemaker Studio 2 (Followed tutorial) and a console calculator with C++. 
+
+> **Thoughts:** Today was a wreck. My wifi wasn't working and I wasn't feeling so well. I haven't used Gamemaker in months, so coding in it feels somewhat nostalgic. I'll definitely use it in the future again, but for now I really need to focus on my C++ project. 
+
+> **Link to work:** 
+___ 
+
 #### Future Projects to Work On
 
 **C++**
