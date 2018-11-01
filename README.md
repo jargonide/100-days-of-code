@@ -41,6 +41,13 @@ ___
 
 > **Link to work:** 
 ___ 
+### Day 5: November 1, 2018 
+
+> **Today's Progress**: Created the basics of my DevLog.io website plan
+
+> **Thoughts:** Today was as much as a wreck as yesterday, except multiplied by one thousand. I'm still dealing with grief over some private family matters, and I have to prepare for a science competition I'm joinning tomorrow. However, I still managed to create the basics of my website.
+> **Link to work:** unfinished
+___ 
 
 #### Future Projects to Work On
 
@@ -61,3 +68,4 @@ ___
 **Combination**
 - X Days of Y (100 Days of Code, 50 Days of Writing, etc.)
 - College admissions helper
+- DevLogs.io = like twitter, a place where devs can show their progress on games they are working on
