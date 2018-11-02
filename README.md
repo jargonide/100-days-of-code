@@ -46,7 +46,16 @@ ___
 > **Today's Progress**: Created the basics of my DevLog.io website plan
 
 > **Thoughts:** Today was as much as a wreck as yesterday, except multiplied by one thousand. I'm still dealing with grief over some private family matters, and I have to prepare for a science competition I'm joinning tomorrow. However, I still managed to create the basics of my website.
+
 > **Link to work:** unfinished
+___ 
+### Day 6: November 2, 2018 
+
+> **Today's Progress**: Begin the creation of Devlog IO, FreeCodeCamp challenges, C++ practice in SoloLearn
+
+> **Thoughts:** I applied what I learned in a Data Structures course by using OOP to integrate posts and users for my website. As far as I remember, this is the first time I've used OOP for something 'useful.' I'm quite proud of what I've achieved today especially considering my current emotional state. I've also practiced some Javascript and C++, which was awesome. 
+
+> **Link to work:** https://github.com/jargonide/devlogio
 ___ 
 
 #### Future Projects to Work On
