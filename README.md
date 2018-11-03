@@ -61,24 +61,26 @@ ___
 
 > **Today's Progress**: Began learning Django, watched some MOOC lectures (Harvard CS50 & Web Programming)
 
-> **Thoughts:** 
+> **Thoughts:** Learning Django made me realize how clueless I was about all this stuff. I knew the Syntax, but not the theory behind it. Tomorrow, I'll watch some Web Development lectures by Harvard's CS50 team and try to use Flask which some people say will make me understand Django more. I will also do some challenges on FreeCodeCamp, if I have the time. 
 
 > **Link to work:** https://github.com/jargonide/devlogio
 ___ 
 
-#### Project I'm working on (WORK ONE PROJECT AT A TIME!)
+### Project I'm working on (WORK ONE PROJECT AT A TIME!)
 Devlog.io -> a social media platform for game developers to log their progress in game(s) they are working on.
-##### Plan for this project:
+#### Plan for this project:
 - Learn Flask to understand Django
 - Then, learn Django
 - Create the website
 - Learn either React Native / Ionic to create a mobile app of Devlog io
+___ 
 
 #### Goals for R1
 - Finish FreeCodeCamp curriculum
 - Watch all Harvard CS50 & Web Development lectures
 - Create some mobile applications
 - Participate to Open Source projects
+___ 
 
 #### Future Projects to Work On
 
