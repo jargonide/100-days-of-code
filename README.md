@@ -57,6 +57,28 @@ ___
 
 > **Link to work:** https://github.com/jargonide/devlogio
 ___ 
+### Day 7: November 3, 2018 
+
+> **Today's Progress**: Began learning Django, watched some MOOC lectures (Harvard CS50 & Web Programming)
+
+> **Thoughts:** 
+
+> **Link to work:** https://github.com/jargonide/devlogio
+___ 
+
+#### Project I'm working on (WORK ONE PROJECT AT A TIME!)
+Devlog.io -> a social media platform for game developers to log their progress in game(s) they are working on.
+##### Plan for this project:
+- Learn Flask to understand Django
+- Then, learn Django
+- Create the website
+- Learn either React Native / Ionic to create a mobile app of Devlog io
+
+#### Goals for R1
+- Finish FreeCodeCamp curriculum
+- Watch all Harvard CS50 & Web Development lectures
+- Create some mobile applications
+- Participate to Open Source projects
 
 #### Future Projects to Work On
 
