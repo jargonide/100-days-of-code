@@ -70,6 +70,7 @@ ___
 > **Today's Progress**: Learned Flask, created Note-taking app
 
 > **Thoughts:** Flask was, in retrospect, much easier to learn than Django. I even managed to create a simple note taking app with it. Harvard's Web Dev course and Corey Schafer's videos were essential in helping me understand this language. I think I'm going to use Flask for my devlog io project, but I'll have to make sure.
+
 > **Link to work:** https://github.com/jargonide/100-days-of-code/tree/master/projects/greennote
 ___ 
 
