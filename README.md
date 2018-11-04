@@ -65,12 +65,18 @@ ___
 
 > **Link to work:** https://github.com/jargonide/devlogio
 ___ 
+### Day 8: November 4, 2018 
+
+> **Today's Progress**: Learned Flask, created Note-taking app
+
+> **Thoughts:** Flask was, in retrospect, much easier to learn than Django. I even managed to create a simple note taking app with it. Harvard's Web Dev course and Corey Schafer's videos were essential in helping me understand this language. I think I'm going to use Flask for my devlog io project, but I'll have to make sure.
+> **Link to work:** https://github.com/jargonide/100-days-of-code/tree/master/projects/greennote
+___ 
 
 ### Project I'm working on (WORK ONE PROJECT AT A TIME!)
 Devlog.io -> a social media platform for game developers to log their progress in game(s) they are working on.
 #### Plan for this project:
 - Learn Flask to understand Django
-- Then, learn Django
 - Create the website
 - Learn either React Native / Ionic to create a mobile app of Devlog io
 ___ 
