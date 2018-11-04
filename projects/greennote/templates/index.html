@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        #writeNote {
+            width: 40%;
+            height: 4em;
+        }
+    </style>
+</head>
+<body>
+    {% extends "layout.html" %}
+    {% block heading %}
+    GreenNote
+    {% endblock %}
+
+    {% block body %}
+    <p>Add Notebook</p>
+    <form action="{{ url_for('index') }}" method="post">
+        <input type="text" name="notebook" placeholder="Write new notebook name">
+        <button> Add Notebook </button>
+    </form>
+    <hr>
+    <p>Add notes</p>
+    <form action="{{ url_for('index') }}" method="post">
+        <select name="notebookSelect">
+            {% for notebook in notebooks %}
+            <option value="{{ loop.index }}">{{ notebook.name.capitalize() }}</option>
+            {% endfor %}
+        </select>
+        <br>
+        <input type="text" name="note" placeholder="Add your note here." id="writeNote">
+        <br>
+        <button> Add Note </button>
+    </form>
+    {% endblock %}
+</body>
+</html>
