@@ -74,6 +74,14 @@ ___
 > **Link to work:** https://github.com/jargonide/100-days-of-code/tree/master/projects/greennote
 ___ 
 
+### Day 9: November 5, 2018 
+
+> **Today's Progress**: Learned WTForms in Flask, and a bit of SQL.
+
+> **Thoughts:** Didn't get much done today, which is acceptable since I'm still in the grieving process for my cousin. Currently working on Devlog io.
+
+> **Link to work:** 
+
 ### Project I'm working on (WORK ONE PROJECT AT A TIME!)
 Devlog.io -> a social media platform for game developers to log their progress in game(s) they are working on.
 #### Plan for this project:
