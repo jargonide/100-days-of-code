@@ -81,6 +81,26 @@ ___
 > **Thoughts:** Didn't get much done today, which is acceptable since I'm still in the grieving process for my cousin. Currently working on Devlog io.
 
 > **Link to work:** 
+___ 
+
+### Day 10: November 7, 2018 
+
+> **Today's Progress**: Created the form for Devlog io
+
+> **Thoughts:** Finally created the form! took me like an hour to solve a bug, but failing is a part of programming, and solving that bug felt like getting a new car. 1/10th of my way there, and I'm so excited. 
+
+> **Link to work:** 
+
+___ 
+
+### Day 10: November 8, 2018 
+
+> **Today's Progress**: Added functionality to the forms
+
+> **Thoughts:** Hello Singapore, hello vacation! Today I added functionality to the forms so that users can actually post something, and began learning SQL and SQLAlchemy.
+
+> **Link to work:** 
+
 
 ### Project I'm working on (WORK ONE PROJECT AT A TIME!)
 Devlog.io -> a social media platform for game developers to log their progress in game(s) they are working on.
