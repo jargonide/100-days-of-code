@@ -93,11 +93,20 @@ ___
 
 ___ 
 
-### Day 10: November 8, 2018 
+### Day 11: November 8, 2018 
 
 > **Today's Progress**: Added functionality to the forms
 
 > **Thoughts:** Hello Singapore, hello vacation! Today I added functionality to the forms so that users can actually post something, and began learning SQL and SQLAlchemy.
+
+> **Link to work:** 
+___ 
+
+### Day 12: November 12, 2018 
+
+> **Today's Progress**: Created a database, and models for the database
+
+> **Thoughts:** Today I finalized the models, wrote my first tests, and created a database. It was a struggle since I honestly didn't know what I was doing. Tomorrow, I'll learn the package structure and visit the basics of SQL and databases. 
 
 > **Link to work:** 
 
