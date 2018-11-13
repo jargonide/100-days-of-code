@@ -109,6 +109,15 @@ ___
 > **Thoughts:** Today I finalized the models, wrote my first tests, and created a database. It was a struggle since I honestly didn't know what I was doing. Tomorrow, I'll learn the package structure and visit the basics of SQL and databases. 
 
 > **Link to work:** 
+___ 
+
+### Day 13: November 13, 2018 
+
+> **Today's Progress**: Created a package for the database
+
+> **Thoughts:** Today I created a package for the database. It was a mess. I'm going to re-do everything tomorrow. Argh, the bugs!!!
+
+> **Link to work:** 
 
 
 ### Project I'm working on (WORK ONE PROJECT AT A TIME!)
