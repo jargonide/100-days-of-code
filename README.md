@@ -118,7 +118,15 @@ ___
 > **Thoughts:** Today I created a package for the database. It was a mess. I'm going to re-do everything tomorrow. Argh, the bugs!!!
 
 > **Link to work:** 
+___ 
 
+### Day 14: November 14, 2018 
+
+> **Today's Progress**: Recreated the web app and learned about migrations.
+
+> **Thoughts:** Today I recreated the whole web app since the last one was messy.  I also learned about migrations.
+
+> **Link to work:** 
 
 ### Project I'm working on (WORK ONE PROJECT AT A TIME!)
 Devlog.io -> a social media platform for game developers to log their progress in game(s) they are working on.
