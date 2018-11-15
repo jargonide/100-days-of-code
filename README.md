@@ -127,6 +127,15 @@ ___
 > **Thoughts:** Today I recreated the whole web app since the last one was messy.  I also learned about migrations.
 
 > **Link to work:** 
+___ 
+
+### Day 15: November 15, 2018 
+
+> **Today's Progress**: The database is now working! Woohoo!
+
+> **Thoughts:** Today I finally got the database to work. I can now post logs. Tomorrow, I'll begin working on user authentication which seems a bit tricky, but I'm definitely up for the challenge! Oh, and I'm going to try to do some version control tomorrow as well. 
+
+> **Link to work:** 
 
 ### Project I'm working on (WORK ONE PROJECT AT A TIME!)
 Devlog.io -> a social media platform for game developers to log their progress in game(s) they are working on.
